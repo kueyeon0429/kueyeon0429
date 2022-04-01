@@ -1,4 +1,1 @@
-<div display="flex">
-    <img src="https://user-images.githubusercontent.com/66217855/161303976-e47c9dfc-67dc-4284-9813-38c722d20ea0.png" width="100px" />
-    Hi
-</div>
+<img src="https://user-images.githubusercontent.com/66217855/161308618-32412cd4-a4ee-4b8f-9be6-47ee47aa5d2a.png" align="center"/>
