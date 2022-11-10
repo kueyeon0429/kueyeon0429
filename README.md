@@ -5,13 +5,13 @@ My name is 박규연, KYU YEON PARK 💁‍♀️
 I'm interested in AI, Data Engineering 👩‍💻
 
 My skill is...  
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white) 
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white) 
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat&logo=Tensorflow&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=Ubuntu&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB.svg?&style=flat&logo=React&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
 
 
 I belong to BOAZ, a big data association club 🐘
