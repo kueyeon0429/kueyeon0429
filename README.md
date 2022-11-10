@@ -16,11 +16,10 @@ My skill is...
 
 I belong to BOAZ, a big data association club 🐘
 
-I try to solve the algorithm problem every day [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=20203065)](https://solved.ac/20203065)  
-I want to be good at algorithms...🔥
+I try to solve the algorithm problem every day 🔥
+I want to be good at algorithms... [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=20203065)](https://solved.ac/20203065/)  
 
 I like taking film pictures 📸  
-If you want to see my work, come to my Instagram! [@noooey](https://www.instagram.com/noooey/)
+If you want to see my work, come to my Instagram! [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/noooey/)
 
 I hope spring comes soon~🌸
