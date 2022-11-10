@@ -22,4 +22,4 @@ I want to be good at algorithms... [![Solved.ac](http://mazassumnida.wtf/api/min
 I like taking film pictures 📸  
 If you want to see my work, come to my Instagram! [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/noooey/)  
 
-contact here 👉 [![Gmail Badge](https://img.shields.io/badge/Instagram-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:20203065@kookmin.ac.kr)
+contact here 👉 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:20203065@kookmin.ac.kr)
