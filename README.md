@@ -2,10 +2,8 @@ Welcome to my GitHub! 👋
 
 My name is 박규연, KYU YEON PARK 💁‍♀️
 
-I'm interested in AI, Data Engineering 👩‍💻
-
-I'm studying...✏️   
-[![Tistory](https://img.shields.io/badge/Tistory-FFFFFF.svg?&style=flat&logo=Tistory&logoColor=black)](https://noooey.tistory.com/)  
+I'm interested in AI, Data Engineering 👩‍💻  
+I'm studying about them. [![Tistory](https://img.shields.io/badge/Tistory-FFFFFF.svg?&style=flat&logo=Tistory&logoColor=black)](https://noooey.tistory.com/)  
 
 I try to solve the algorithm problem every day 🔥  
 I want to be good at algorithms... [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=20203065)](https://solved.ac/20203065/)  
