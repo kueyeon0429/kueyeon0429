@@ -2,7 +2,7 @@
 
 <h3> Interest_ </h3>
 
-<p> AI, Data Engineering </p>
+`AI`, `Data Engineering`
 
 <h3> Solved_ </h3>
 
