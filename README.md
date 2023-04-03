@@ -1,24 +1,18 @@
-<div align='center'>
-  KMU CS... Lv3
-</div>
-<div align='center'>
-  I'm interested in... <b>Generative Model</b>, <b>Data Engineering</b> ദ്ദി◍•ᴗ•◍)
-</div>
+```Makefile
+Education:
+  Junior Year of  Kookmin University, Seoul, South Korea
 
-<div align='center'>
-  &nbsp;
-</div>
-<div align='center'>
-  ...
-</div>
-<div align='center'>
-  &nbsp;
-</div>
-
-<div align='center'>
-  Contact here
-</div>
-<div align='center'>
+Interests:
+  Kafka, Docker, Generative Model
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white)](mailto:20203065@kookmin.ac.kr)
-</div>
+Experience:
+  Mobile Web Front End Development Intern in CONCAT, Startup. (03-2022 ~ 06-2022)
+  Big Data “Analysis” / “Engineering” Part Club Member, BOAZ, Big Data Association Club. (03-2022 ~ 01-2023)
+  Leader of the club “Analysis” part, Big Data Association Club(BOAZ). (07-2022 ~ 01-2023)
+
+Award:
+  The 1st 2023 Regional Policing Safety Data Analysis Contest, The Grand Prize (02-2023)
+
+Contact:
+  20203065@kookmin.ac.kr
+```
