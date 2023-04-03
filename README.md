@@ -1,6 +1,6 @@
 ```Makefile
 Education:
-  Junior Year of  Kookmin University, Seoul, South Korea
+  Junior Year of Kookmin University, Seoul, South Korea
 
 Interests:
   Kafka, Docker, Generative Model
