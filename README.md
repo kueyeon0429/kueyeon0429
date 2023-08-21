@@ -1,10 +1,13 @@
 ```Makefile
-Education:
-  Junior Year of Kookmin University, Seoul, South Korea
+keywords:
+  ai ml dl bigdata data_engineering
 
-Interests:
-  Kafka, Docker, Generative Model
+languages:
+  python typescript java c++
+
+skills:
+  docker pytorch tensorflow pandas aws reactjs nextjs elasticsearch kafka fastapi
   
-Contact:
+contact:
   20203065@kookmin.ac.kr
 ```
