@@ -2,9 +2,13 @@ import feedparser, time
 
 URL="https://noooey.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=3
+MAX_POST=2
 
 markdown_text = """
+```
+20203065@kookmin.ac.kr
+```
+
 ### ✍️ isPowerfulBlog...의 근황
 """ # list of blog posts will be appended here
 
