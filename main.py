@@ -5,11 +5,8 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST=2
 
 markdown_text = """
-```
-20203065@kookmin.ac.kr
-```
 
-### ✍️ isPowerfulBlog...의 근황
+**공부 중~...✍️**
 """ # list of blog posts will be appended here
 
 
