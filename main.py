@@ -6,7 +6,7 @@ MAX_POST=2
 
 markdown_text = """
 
-**공부 중~...✍️**
+**Blog~...✍️**  
 """ # list of blog posts will be appended here
 
 
