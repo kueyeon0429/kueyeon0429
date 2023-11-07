@@ -6,7 +6,9 @@ MAX_POST=3
 
 markdown_text = """
 
-**______________________________________________✍️**  
+Blog____✍️  
+---
+
 """ # list of blog posts will be appended here
 
 idx = 0
@@ -17,10 +19,10 @@ for feed in RSS_FEED['entries']:
         feed_category = feed['category']
         if feed_category in ['AI', 'DataEngineering', 'Infra']:
             feed_date = feed['published_parsed']
-            markdown_text += f"**[{feed['title']}]({feed['link']})**, {time.strftime('%Y.%m.%d', feed_date)}, #{feed_category} <br/> \n"
+            markdown_text += f"**[{feed['title']}]({feed['link']})**, {time.strftime('%Y.%m.%d', feed_date)} <br/> \n"
             idx += 1
 
-markdown_text += "--- <br/> \n"
+markdown_text += "---"
 markdown_text += "20203065@kookmin.ac.kr"
 
 f = open("README.md",mode="w", encoding="utf-8")
