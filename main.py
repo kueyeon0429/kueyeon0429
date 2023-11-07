@@ -22,7 +22,7 @@ for feed in RSS_FEED['entries']:
             markdown_text += f"**[{feed['title']}]({feed['link']})**, {time.strftime('%Y.%m.%d', feed_date)} <br/> \n"
             idx += 1
 
-markdown_text += "---"
+markdown_text += "--- \n"
 markdown_text += "20203065@kookmin.ac.kr"
 
 f = open("README.md",mode="w", encoding="utf-8")
