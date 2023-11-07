@@ -1,6 +1,11 @@
 
 
 **Blog~...✍️**  
-[2023.11.06 | [LLM] LangChain](https://noooey.tistory.com/69) <br/> 
-[2023.10.16 | [컴퓨터구조] #06 | slt](https://noooey.tistory.com/68) <br/> 
-[2023.10.16 | [컴퓨터구조] #05 | branch](https://noooey.tistory.com/67) <br/> 
+2023.11.06 | #AI) <br/> 
+### [[LLM] LangChain](https://noooey.tistory.com/69) <br/> 
+2023.06.23 | #Infra) <br/> 
+### [[Knative] kind로 knative 클러스터 구축하기 | Ubuntu 22.04](https://noooey.tistory.com/62) <br/> 
+2023.06.04 | #Infra) <br/> 
+### [[Kubernetes] Knative란?](https://noooey.tistory.com/61) <br/> 
+2023.06.03 | #Infra) <br/> 
+### [[Kubernetes] Kubernetes Tutorial for Beginners 정리(1)](https://noooey.tistory.com/60) <br/> 
