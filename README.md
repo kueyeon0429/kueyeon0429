@@ -1,13 +1,15 @@
+
 Blog____✍️  
 ---
 
+**[[Solved] BOJ: 2457 | 공주님의 정원](https://noooey.tistory.com/73)**, 2023.12.21 <br/> 
+**[연구실 안전관리 시스템 스킵, 배속하기](https://noooey.tistory.com/72)**, 2023.12.06 <br/> 
 **[[자료구조] 큐, 스택, 힙](https://noooey.tistory.com/71)**, 2023.11.15 <br/> 
 **[[박람회] 2023 디지털미디어혁신대전 참관 보고서](https://noooey.tistory.com/70)**, 2023.11.13 <br/> 
 **[[LLM] LangChain](https://noooey.tistory.com/69)**, 2023.11.06 <br/> 
-**[[컴퓨터구조] #06 | slt](https://noooey.tistory.com/68)**, 2023.10.16 <br/> 
-**[[컴퓨터구조] #05 | branch](https://noooey.tistory.com/67)**, 2023.10.16 <br/> 
 
-Summary
+
+Summary  
 ---
 **2023.08 ~ 2023.09** | `공모전`  제11회 2023 빅콘테스트, 대상  
 **2023.05 ~ 2023.08** | `공모전`  2023 오픈인프라개발경진대회, 금상  
