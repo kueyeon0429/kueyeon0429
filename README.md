@@ -3,7 +3,7 @@ Blog____✍️
 ---
 
 **[[Solved] BOJ: 2457 | 공주님의 정원](https://noooey.tistory.com/73)**, 2023.12.21 <br/> 
-**[연구실 안전관리 시스템 스킵, 배속하기](https://noooey.tistory.com/72)**, 2023.12.06 <br/> 
+**[[박람회] 2023 디지털미디어혁신대전 참관 보고서](https://noooey.tistory.com/70)**, 2023.11.13 <br/> 
 **[[LLM] LangChain](https://noooey.tistory.com/69)**, 2023.11.06 <br/> 
 **[[컴퓨터구조] #06 | slt](https://noooey.tistory.com/68)**, 2023.10.16 <br/> 
 
