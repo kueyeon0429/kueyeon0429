@@ -10,7 +10,7 @@ Blog____✍️
 
 """ # list of blog posts will be appended here
 
-category = {'AI': 0, 'DataEngineering':0, 'Infra':0, 'Algorithm':0, 'CS':0, 'etc':0}
+category = {'AI': 0, 'DataEngineering':0, 'Infra':0, 'Algorithm':0, 'CS':0, '후기':0}
 
 idx = 0
 for feed in RSS_FEED['entries']:
