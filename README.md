@@ -2,7 +2,7 @@
 Blog____✍️  
 ---
 
-**[[Cloud] VPC, VPN란?](https://noooey.tistory.com/74)**, 2024.01.16 <br/> 
+**[[Cloud] VPC, VPN이란?](https://noooey.tistory.com/74)**, 2024.01.16 <br/> 
 **[[Solved] BOJ: 2457 | 공주님의 정원](https://noooey.tistory.com/73)**, 2023.12.21 <br/> 
 **[[박람회] 2023 디지털미디어혁신대전 참관 보고서](https://noooey.tistory.com/70)**, 2023.11.13 <br/> 
 **[[LLM] LangChain](https://noooey.tistory.com/69)**, 2023.11.06 <br/> 
