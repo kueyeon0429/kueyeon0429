@@ -2,7 +2,7 @@
 Blog____✍️  
 ---
 
-**[[시스템 디자인] Design a Key Value Store](https://noooey.tistory.com/75)**, 2024.01.28 <br/> 
+**[[시스템디자인] Design a Key Value Store](https://noooey.tistory.com/75)**, 2024.01.28 <br/> 
 **[[Cloud] VPC, VPN이란?](https://noooey.tistory.com/74)**, 2024.01.16 <br/> 
 **[[Solved] BOJ: 2457 | 공주님의 정원](https://noooey.tistory.com/73)**, 2023.12.21 <br/> 
 **[[박람회] 2023 디지털미디어혁신대전 참관 보고서](https://noooey.tistory.com/70)**, 2023.11.13 <br/> 
