@@ -21,7 +21,7 @@ for feed in RSS_FEED['entries']:
         feed_category = feed['category']
         if (feed_category in category.keys()) and (category[feed_category] < 2):
             feed_date = feed['published_parsed']
-            markdown_text += f"**|{time.strftime('%Y.%m.%d', feed_date)}|[{feed['title']}]({feed['link']})|** <br/> \n"
+            markdown_text += f"|{time.strftime('%Y.%m.%d', feed_date)}|[{feed['title']}]({feed['link']})** <br/> \n"
             category[feed_category] += 1 # count up!
             idx += 1
 
