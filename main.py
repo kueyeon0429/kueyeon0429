@@ -10,7 +10,7 @@ Blog____✍️
 
 """
 
-category = {'AI': 0, 'DataEngineering':0, 'Infra':0, 'Algorithm':0, 'CS':0}
+category = {'AI': 0, 'Data Engineering':0, 'Infra':0, 'Algorithm':0, 'CS':0}
 
 idx = 0
 for feed in RSS_FEED['entries']:
