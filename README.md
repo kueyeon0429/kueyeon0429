@@ -11,6 +11,7 @@ Blog____✍️
 [[LangChain] LLM으로 문서 요약하기 (summarization)](https://noooey.tistory.com/84), 2024.04.22 <br/> 
 [[LangChain] Text Splitter로 긴 문서를 작은 Chunk로 쪼개기](https://noooey.tistory.com/83), 2024.04.19 <br/> 
 [[LangChain] S3, MinIO Loader 구현하고 PDFParser 사용하기](https://noooey.tistory.com/82), 2024.04.12 <br/> 
+[[AWS] Secrets manager로 AWS 리소스 접근하기, AWS CLI](https://noooey.tistory.com/80), 2024.03.27 <br/> 
 
 
 Summary  
@@ -21,5 +22,3 @@ Summary
 **2023.02 ~ 2023.02** | `공모전`  제1회 2023년 지역 치안 안전 데이터 분석 공모전, 최우수상  
 **2022.03 ~ 2022.06** | `인 턴`  Front-end Developer in CONCAT Inc.  
 **2022.01 ~ 2023.01** | `동아리` 국내 최초 빅데이터 연합동아리 BOAZ, 18기 분석 부문 대표
-
-> 20203065@kookmin.ac.kr
