@@ -2,7 +2,7 @@ import feedparser, time
 
 URL="https://noooey.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=5
+MAX_POST=6
 
 markdown_text = """
 <a href="https://github.com/devxb/gitanimals">
@@ -39,8 +39,6 @@ Summary
 **2022.03 ~ 2022.06** | `인 턴`  Front-end Developer in CONCAT Inc.  
 **2022.01 ~ 2023.01** | `동아리` 국내 최초 빅데이터 연합동아리 BOAZ, 18기 분석 부문 대표
 """
-markdown_text += "\n"
-markdown_text += "> 20203065@kookmin.ac.kr"
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
