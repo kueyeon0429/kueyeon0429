@@ -6,12 +6,12 @@
 Blog____✍️  
 ---
 
-[[NLP] 다양한 문서에서 중요한 키워드 추출하기](https://noooey.tistory.com/86), 2024.05.05 <br/> 
-[[LangChain] multi query invoke, ainvoke 속도 비교하기](https://noooey.tistory.com/85), 2024.04.25 <br/> 
-[[LangChain] LLM으로 문서 요약하기 (summarization)](https://noooey.tistory.com/84), 2024.04.22 <br/> 
-[[LangChain] Text Splitter로 긴 문서를 작은 Chunk로 쪼개기](https://noooey.tistory.com/83), 2024.04.19 <br/> 
-[[LangChain] S3, MinIO Loader 구현하고 PDFParser 사용하기](https://noooey.tistory.com/82), 2024.04.12 <br/> 
-[[AWS] Secrets manager로 AWS 리소스 접근하기, AWS CLI](https://noooey.tistory.com/80), 2024.03.27 <br/> 
+[[NLP] 다양한 문서에서 중요한 키워드 추출하기](http://noooey.tistory.com/86), 2024.05.05 <br/> 
+[[LangChain] multi query invoke, ainvoke 속도 비교하기](http://noooey.tistory.com/85), 2024.04.25 <br/> 
+[[LangChain] LLM으로 문서 요약하기 (summarization)](http://noooey.tistory.com/84), 2024.04.22 <br/> 
+[[LangChain] Text Splitter로 긴 문서를 작은 Chunk로 쪼개기](http://noooey.tistory.com/83), 2024.04.19 <br/> 
+[[LangChain] S3, MinIO Loader 구현하고 PDFParser 사용하기](http://noooey.tistory.com/82), 2024.04.12 <br/> 
+[[AWS] Secrets manager로 AWS 리소스 접근하기, AWS CLI](http://noooey.tistory.com/80), 2024.03.27 <br/> 
 
 
 Summary  
