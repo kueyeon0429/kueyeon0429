@@ -6,7 +6,7 @@ MAX_POST=6
 
 markdown_text = """
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{noooey}?pet-id=582980161288278816" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{noooey}?pet-id=582855096513082436" width="1000" height="120"/>
 </a>
   
 
