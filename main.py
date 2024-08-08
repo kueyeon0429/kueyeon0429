@@ -43,7 +43,7 @@ Summary
 
 markdown_text += "\n"
 markdown_text += "---\n"
-markdown_text += "20203065@kookmin.ac.kr"
+markdown_text += "qkrrbdus1859@gmail.com"
 
 f = open("README.md",mode="w", encoding="utf-8")
 f.write(markdown_text)
