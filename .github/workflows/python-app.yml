@@ -1,8 +1,4 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
-
 name: Python application
-
 on:
   push:
     branches: [ "main" ]
@@ -13,11 +9,13 @@ on:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -31,10 +29,15 @@ jobs:
         python main.py
     - name: Update README.md file
       run: | 
-        git pull
-        git add .
-        git diff
-        git config --local user.email "20203065@kookmin.ac.kr"
+        git config --local user.email "qkrrbdus1859@gmail.com"
         git config --local user.name "noooey"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
         git commit -m "Update README.md"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Last edited just now
