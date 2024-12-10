@@ -10,7 +10,6 @@ Blog____✍️
 [[LangChain] multi query invoke, ainvoke 속도 비교하기](https://noooey.tistory.com/85), 2024.04.25 <br/> 
 [[LangChain] LLM으로 문서 요약하기 (summarization)](https://noooey.tistory.com/84), 2024.04.22 <br/> 
 [[LangChain] Text Splitter로 긴 문서를 작은 Chunk로 쪼개기](https://noooey.tistory.com/83), 2024.04.19 <br/> 
-[[LangChain] S3, MinIO Loader 구현하고 PDFParser 사용하기](https://noooey.tistory.com/82), 2024.04.12 <br/> 
 
 
 Summary  
