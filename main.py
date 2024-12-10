@@ -23,7 +23,6 @@ Blog____✍️
         'AI': 0, 
         'Data Engineering': 0, 
         'Infra': 0, 
-        'Algorithm': 0, 
         'CS': 0
     }
     
